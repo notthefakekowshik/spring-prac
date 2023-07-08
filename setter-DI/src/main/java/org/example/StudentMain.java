@@ -7,6 +7,9 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class StudentMain {
 
     public static void main(String[] args) {
+        /**
+         *  Simple DI for setter functions
+         */
         BeanFactory StudentBF = new ClassPathXmlApplicationContext("xml_data.xml");
         Student kowshikObjBF = (Student) StudentBF.getBean("k-obj");
         System.out.println(kowshikObjBF.name);
@@ -23,8 +26,9 @@ public class StudentMain {
         PersonObjAC.getName();
 
         System.out.println("Demonstrating DI with has a relationship");
+
         /**
-         * DI with Ref
+         * DI for setter functions with Ref
          */
         BeanFactory StudentRefBF = new ClassPathXmlApplicationContext("xml_data.xml");
         Student kowshikRefObjBF = (Student) StudentRefBF.getBean("kowshik-ref-obj");
