@@ -12,5 +12,8 @@ public class StudentMain {
         Employee e = ac.getBean(Employee.class);
         e.displayMessage();
 
+        UsingTestingClass usingTestingClass = ac.getBean(UsingTestingClass.class);
+        usingTestingClass.makeACallToTestinClass();
+
     }
 }
