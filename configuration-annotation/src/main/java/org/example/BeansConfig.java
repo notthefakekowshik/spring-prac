@@ -11,14 +11,14 @@ public class BeansConfig {
 
     @Bean
     @Primary
-    public Student getStudent(){
-        System.out.println("in the main student bean");
+    public Student getStudent() {
+        System.out.println("in the main student bean " + this);
         return new Student();
     }
 
     @Bean
     public Student getStudentDup() {
-        System.out.println("called student dup");
+        System.out.println("called student dup " + this);
         return new Student();
     }
 

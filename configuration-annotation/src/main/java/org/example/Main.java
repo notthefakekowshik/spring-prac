@@ -1,13 +1,20 @@
 package org.example;
 
 import org.springframework.context.ApplicationContext;
+import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {
 
     public static void main(String[] args) {
-        ApplicationContext ac = new AnnotationConfigApplicationContext(BeansConfig.class);
+        AnnotationConfigApplicationContext ac = new AnnotationConfigApplicationContext(BeansConfig.class);
+        //ConfigurableApplicationContext ac = new AnnotationConfigApplicationContext(BeansConfig.class);
+//        ac.registerShutdownHook();
+//        ac.close();
 
+        System.out.println("========");
+        System.out.println("========");
+        System.out.println("========");
         Student studentObj = ac.getBean(Student.class);
         studentObj.displayStudentMessage();
 
@@ -15,6 +22,9 @@ public class Main {
         personObj.displayPersonMessage();
 
         Person personObjWithName = ac.getBean("getPersonWithNameFunc",Person.class);
+        personObjWithName.displayPersonMessage();
+
+
     }
 
 }
