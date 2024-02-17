@@ -7,9 +7,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class Employee {
 
-    @Qualifier("person")
+    @Qualifier("personn")
     @Autowired
-
     Human human; /* This will be exception but when?
     human ni two classes implement chestunay.
     IOC be like : neeku evari instance kavali rawww?

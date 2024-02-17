@@ -1,0 +1,16 @@
+
+j
+java:S1192"MDefine a constant instead of duplicating this literal "xml_data.xml" 6 times.(Ÿï˜8¯Œ¿¯“1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿï˜8°Œ¿¯“1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ğ›¤8°Œ¿¯“1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯×§ô8°Œ¿¯“1
+r	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ™ŠÂüÿÿÿÿ8°Œ¿¯“1
+l	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï‘ä}8°Œ¿¯“1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í©×Ô8·Œ¿¯“1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ìùØ8·Œ¿¯“1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›ú†á8¸Œ¿¯“1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ïˆ‰üÿÿÿÿ8¸Œ¿¯“1
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(§ò«ûÿÿÿÿ8¹Œ¿¯“1
+G
+java:S1905'"*Remove this unnecessary cast to "Student".(ƒÜ¿ª8¹Œ¿¯“1
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(ÌÎ™ùÿÿÿÿ8½ÒŒÌ“1

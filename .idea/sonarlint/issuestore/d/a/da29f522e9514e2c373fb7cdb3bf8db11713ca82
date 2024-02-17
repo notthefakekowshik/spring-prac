@@ -1,0 +1,11 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "k-obj" 4 times.(óØ°Æıÿÿÿÿ8êõ½Û1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãõİ…ıÿÿÿÿ
+G	java:S106"+Replace this use of System.out by a logger.(›¤ø8•Ëí½Û1
+L	java:S106"+Replace this use of System.out by a logger.(ÑÔÇÆÿÿÿÿÿ8…¨ï½Û1
+G	java:S106"+Replace this use of System.out by a logger.(›¤ø8ÅÉï½Û1
+L	java:S106"+Replace this use of System.out by a logger.(ğ³æÂûÿÿÿÿ8­¡ó½Û1
+G	java:S106"+Replace this use of System.out by a logger.(üÖÉ×8®¡ó½Û1
+L	java:S106"+Replace this use of System.out by a logger.(ÑÔÇÆÿÿÿÿÿ8Üïó½Û1
+G	java:S106"+Replace this use of System.out by a logger.(üÖÉ×8İïó½Û1

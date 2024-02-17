@@ -1,0 +1,11 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal "========" 3 times.(‘ýÛ™þÿÿÿÿ8–Çç½Û1
+L	java:S106"+Replace this use of System.out by a logger.(‘ýÛ™þÿÿÿÿ8ÀÇç½Û1
+]	java:S125"<This block of commented-out lines of code should be removed.(ªßÄûÿÿÿÿ8ÙÕ‹‚£1
+L	java:S106"+Replace this use of System.out by a logger.(‘ýÛ™þÿÿÿÿ8ÖÇç½Û1
+L	java:S106"+Replace this use of System.out by a logger.(‘ýÛ™þÿÿÿÿ8ÙÇç½Û1
+h
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿8…ÿŠ‚£1
+s
+java:S1128"WRemove this unused import 'org.springframework.context.ConfigurableApplicationContext'.(ÉšêC8ÚÕ‹‚£1

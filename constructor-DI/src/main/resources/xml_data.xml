@@ -6,9 +6,9 @@
     xsi:schemaLocation="http://www.springframework.org/schema/beans  
                 http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">  
   
-<bean id="k-obj" class="com.CBF.Student">
-	<constructor-arg value="kowshik"></constructor-arg>  
-</bean>
+	<bean id="k-obj" class="com.CBF.Student">
+		<constructor-arg value="kowshik"></constructor-arg>
+	</bean>
 
 	<bean id="kowshik-person-obj" class="com.CBF.Person">
 		<constructor-arg value="kowshik-person"></constructor-arg>
